@@ -28,5 +28,6 @@ The simulation generates three plots:
 
 3. A distribution graph of the natural frequencies ($$\omega$$) of the oscillators.
 ![omega_distribution](https://github.com/user-attachments/assets/c3568f36-6d2d-4e38-b7d5-08e9f74b881a)
+""" For this simulation, I have assumed it to be a Standard Gaussian Distribution """
 
    
