@@ -18,16 +18,17 @@ This document describes a Python implementation of the Kuramoto Model in a Jupyt
 
 The simulation generates three plots:
 1. A plot of r(t) versus time for different values of K.
-
+![Plot of r(t) v/s Time](https://github.com/user-attachments/assets/490c1d44-f640-4129-9697-ca94812b5b5d)
+- For K > Kc, the r(t) shows a increase with time, whereas for K < Kc r(t) will remain closer to 0.
    
 
-2. A plot of r versus K, where K_c (the threshold) is indicated on the x-axis, showing where a sudden increase in the slope occurs.
+3. A plot of r versus K, where K_c (the threshold) is indicated on the x-axis, showing where a sudden increase in the slope occurs.
+![Plot for r(t) v/s K (coupling strength)](https://github.com/user-attachments/assets/bc86f259-80c5-406a-9272-a7565a4fa964)
+- At a certain point on the x-axis (Kc) there will be a sudden increase in the slope of the graph.
 
 
-
-
-3. A distribution graph of the natural frequencies ($$\omega$$) of the oscillators.
-![omega_distribution](https://github.com/user-attachments/assets/c3568f36-6d2d-4e38-b7d5-08e9f74b881a)
-""" For this simulation, I have assumed it to be a Standard Gaussian Distribution """
+4. A distribution graph of the natural frequencies ($$\omega$$) of the oscillators.
+![The distribution of $$/omega$$_](https://github.com/user-attachments/assets/c3568f36-6d2d-4e38-b7d5-08e9f74b881a)
+- For this simulation, I have assumed it to be a Standard Gaussian Distribution.
 
    
