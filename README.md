@@ -22,7 +22,7 @@ The simulation generates three plots:
 - For K > Kc, the r(t) shows a increase with time, whereas for K < Kc r(t) will remain closer to 0.
    
 
-3. A plot of r versus K, where K_c (the threshold) is indicated on the x-axis, showing where a sudden increase in the slope occurs.
+3. A plot of order_parameter(r) versus K, where K_c (the threshold) is indicated on the x-axis, showing where a sudden increase in the slope occurs.
 ![Plot for r(t) v/s K (coupling strength)](https://github.com/user-attachments/assets/bc86f259-80c5-406a-9272-a7565a4fa964)
 - At a certain point on the x-axis (Kc) there will be a sudden increase in the slope of the graph.
 
