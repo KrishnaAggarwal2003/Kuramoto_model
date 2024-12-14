@@ -1,6 +1,6 @@
 # Kuramoto Model Simulation
 
-This document describes a Python implementation of the Kuramoto Model in a Jupyter Notebook. The `.ipynb` file contains object-oriented programming (OOP) code for the Kuramoto Model and produces three output plots.
+This [code.ipynb](https://github.com/KrishnaAggarwal2003/Kuramoto_model/blob/main/code.ipynb) describes a Python implementation of the Kuramoto Model in a Jupyter Notebook. The `.ipynb` file contains object-oriented programming (OOP) code for the Kuramoto Model and produces three output plots.
 
 ## Instructions:
 
@@ -10,7 +10,7 @@ This document describes a Python implementation of the Kuramoto Model in a Jupyt
 
 - In this model, the distribution of natural frequencies ($$\omega$$) is assumed to follow a standard normal distribution, with a mean of 0 and a standard deviation of 1.
 
-- The simulation includes N = 100 oscillators and runs for a total time of 10 seconds, with a time step of 0.1 seconds.
+- The simulation includes N = 100 oscillators and runs for 10 seconds, with a time step of 0.1 seconds.
 
 - The following code implements the OOP structure that encapsulates the equations of the Kuramoto Model and utilizes `solve_ivp` to solve the differential equations.
 
