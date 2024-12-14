@@ -31,4 +31,27 @@ The simulation generates three plots:
 ![The distribution of $$/omega$$_](https://github.com/user-attachments/assets/c3568f36-6d2d-4e38-b7d5-08e9f74b881a)
 - For this simulation, I have assumed it to be a Standard Gaussian Distribution.
 
+# Simulation of Kuramoto Model with Watts-Strogratz Small World Network
+
+## Instructions:
+This module attempts to simulate the Kuramoto Model but adds a small world network between models using the principles of Watts-Strogatz network rules.
+### Kuramoto Oscillator
+- The number of oscillators chosen is 100
+- The simulation time is 10 seconds with a time step of 0.1
+- Distribution of omega is a standard normal distribution
+### Small World Network
+- The Number of Nodes is equivalent to the number of oscillators
+- Both the Regular and Randomized Networks are used and results are used to compare the two
+- The probability (p) for Regular is 0.95 whereas for the Randomized portion is 0.05
+### Results
+The following plots are used for visualizing the dynamics of the Network system:-
+- The Circular and Default layout network of both the Regular and Randomized Watts-Strogatz network model
+- The omega frequency distribution between two networks
+- The order parameter(r) v/s Coupling strength(K) plot in both cases of Regular and Randomized Network
+- The order parameter(r) v/s Time (t) plot in both cases of Regular and Randomized Network
+- The degree distribution plots i.e. Bar graph between Fraction of nodes v/s Degree of nodes for both Regular and Random Network
+- The Clustering Coefficient Distribution histogram along with the value of the Average Clustering Coefficient for both Regular and Random Networks.
+
+
+
    
