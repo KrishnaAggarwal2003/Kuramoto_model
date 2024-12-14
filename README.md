@@ -46,11 +46,18 @@ This module attempts to simulate the Kuramoto Model but adds a small world netwo
 ### Results
 The following plots are used for visualizing the dynamics of the Network system:-
 - The Circular and Default layout network of both the Regular and Randomized Watts-Strogatz network model
+![output](https://github.com/user-attachments/assets/80fae36d-7466-4a96-8ef8-9799140537ea)
+![output02](https://github.com/user-attachments/assets/d60445cd-e2da-45a7-93a0-305b8238fcf9)
 - The omega frequency distribution between two networks
+![output01](https://github.com/user-attachments/assets/397e24f4-1f0a-4532-988b-0389960d35bb)
 - The order parameter(r) v/s Coupling strength(K) plot in both cases of Regular and Randomized Network
+![rvsk](https://github.com/user-attachments/assets/071747c2-3f14-405d-90a1-ad6858fbf2e8)
 - The order parameter(r) v/s Time (t) plot in both cases of Regular and Randomized Network
-- The degree distribution plots i.e. Bar graph between Fraction of nodes v/s Degree of nodes for both Regular and Random Network
+![rvst](https://github.com/user-attachments/assets/b641dd43-4bba-4051-896b-93f81f5e62ad)
+- The degree distribution plots i.e. Bar graph between Fraction of nodes v/s Degree of nodes for both Regular and Random Networks.
+![nodal](https://github.com/user-attachments/assets/f4da6605-7b14-41fc-8b1c-c0aea8eaf8dd)
 - The Clustering Coefficient Distribution histogram along with the value of the Average Clustering Coefficient for both Regular and Random Networks.
+![cluster](https://github.com/user-attachments/assets/701ec292-6a4f-4cc3-ba05-ad03bd3a2d83)
 
 
 
